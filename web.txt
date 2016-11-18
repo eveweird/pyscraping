@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<!-- Site Crafted Using DMS Child v1.0.0.1435412114 - WordPress - HTML5 - www.PageLines.com -->
+
+
+<!-- Start >> Meta Tags and Inline Scripts -->
+<title>Blog &#8211; Codecraft Lab</title>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','http://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '736581349826961');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="http://www.facebook.com/tr?id=736581349826961&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><link rel='dns-prefetch' href='//www.avantlink.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Codecraft Lab &raquo; Feed" href="http://www.codecraftlab.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Codecraft Lab &raquo; Comments Feed" href="http://www.codecraftlab.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.codecraftlab.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=eb227c0ab5468786ddb71cc4b4d95b9b"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+<!-- Styles -->
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-light-speed-css'  href='http://www.codecraftlab.org/wp-content/plugins/wp-speed-of-light/css/style.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='avantlink_rp_style-css'  href='http://www.codecraftlab.org/wp-content/plugins/avantlink-wp/css/rp_style.css?ver=eb227c0ab5468786ddb71cc4b4d95b9b' type='text/css' media='all' />
+<link rel='stylesheet' id='avantlink_ps_style-css'  href='http://www.codecraftlab.org/wp-content/plugins/avantlink-wp/css/ps_style.css?ver=eb227c0ab5468786ddb71cc4b4d95b9b' type='text/css' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css'  href='http://www.codecraftlab.org/wp-content/themes/dms/style.css?ver=eb227c0ab5468786ddb71cc4b4d95b9b' type='text/css' media='all' />
+<link rel='stylesheet' id='pagelines-less-core-css'  href='http://www.codecraftlab.org/wp-content/uploads/pagelines/compiled-css-core-1479308077.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pagelines-less-sections-css'  href='http://www.codecraftlab.org/wp-content/uploads/pagelines/compiled-css-sections-1479308077.css' type='text/css' media='all' />
+<link rel='stylesheet' id='master_font_import-css'  href='//fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CRaleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900&#038;ver=d7b395' type='text/css' media='all' />
+<link rel='stylesheet' id='DMS-theme-css'  href='http://www.codecraftlab.org/wp-content/themes/dms-child/style.css?ver=1.0.0.1435412114' type='text/css' media='all' />
+
+<!-- Scripts -->
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel="shortcut icon" href="http://www.codecraftlab.org/wp-content/uploads/2014/07/mapFlagMarker.png" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.codecraftlab.org/wp-content/uploads/2014/07/mapFlagMarker.png" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta property='pl-share-title' content='Holiday Gifts, Winter Workshops' />
+<meta property='pl-share-url' content='http://www.codecraftlab.org/holiday-gifts-winter-workshops/' />
+<meta property='pl-share-desc' content='Has your child ever expressed an interest in building their own computer programming their own [...]' />
+<meta property='pl-share-img' content='http://www.codecraftlab.org/wp-content/uploads/2016/11/Pimoroni-Case-Back_700.jpg' />
+<link rel='https://api.w.org/' href='http://www.codecraftlab.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.codecraftlab.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.codecraftlab.org/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.codecraftlab.org/?wordfence_logHuman=1&hid=73B0F997A40E7BDD9B235981C9709FD7');
+</script><script type="text/javascript">
+           var ajaxurl = "http://www.codecraftlab.org/wp-admin/admin-ajax.php";
+         </script><style type="text/css"> .comments-link { display: none; } </style>
+<!-- RapidTabs | Section Head -->
+		<script>
+		!function ($) {
+			$(document).on('sectionStart', function( e ) {
+				$('.the-rapid-tabs').tabs({
+					show: true
+				})
+			})
+		}(window.jQuery);
+		</script>
+		
+<!-- On Ready -->
+<script> /* <![CDATA[ */
+!function ($) {
+jQuery(document).ready(function() {
+})
+}(window.jQuery);
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=7fa2ad028523bbb9053a12ccedcb20214248c1b5"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75348283-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<style type="text/css" id="pagelines-custom">
+ .revslider-container h2.slider-text{background-color:rgba(100,100,100,0.4);padding:11px 25px} .hentry table{margin-bottom:1em;font-size:100% !important;line-height:1.3em} .section-testimonials blockquote p{margin-top:20px;padding:20px,0px,20px,0px;font-style:normal;font-size:smaller;border-top:solid 5px #3A3A3C;border-bottom:solid 5px #3A3A3C} .btn{background:#ff9900;-webkit-border-radius:28;-moz-border-radius:28;border-radius:28px;font-family:Arial;color:#ffffff;font-size:20px;padding:10px 20px 10px 20px;text-decoration:none} .btn:hover{background:#ff5a01;text-decoration:none;color:#ffffff} .btn a:link{text-decoration:none;color:#ffffff !important} .btn a:visited{text-decoration:none;color:#ffffff} .btn a:active{text-decoration:none;color:#ffffff} 
+</style>
+
+</head>
+
+<!-- Start >> HTML Body -->
+
+<body class="blog dms-child pl-pro-version responsive full_width template-blog display-full">
+	
+		<div class="pl-mobile-menu">
+			
+			<form method="get" class="mm-search pl-searcher" onsubmit="this.submit();return false;" action="http://www.codecraftlab.org/" ><fieldset><span class="btn-search"><i class="icon icon-search"></i></span><input type="text" value="" name="s" class="searchfield" placeholder="Search" /></fieldset></form>				
+			<div class="mm-holder">
+				
+				
+				<ul id="menu-megamenu" class="mobile-menu primary-menu"><li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a title="Computer Programming for Kids" href="http://www.codecraftlab.org/">HOME</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52"><a title="Learn to code" href="http://www.codecraftlab.org/learn-to-code/">LEARN</a>
+<ul class="sub-menu">
+	<li id="menu-item-2743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2743"><a title="2-hour after school &#038; evening courses" href="http://www.codecraftlab.org/learn-to-code/">Codecraft Lab Afternoon or Evening Courses</a></li>
+	<li id="menu-item-2890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2890"><a href="http://www.codecraftlab.org/codecraft-club/">Codecraft Club at Your School</a></li>
+	<li id="menu-item-2179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2179"><a href="http://www.codecraftlab.org/steam-events-services/">School Field Trips &#038; Badge Workshops</a></li>
+	<li id="menu-item-2852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2852"><a href="http://www.codecraftlab.org/codecraft-computer-programming-competition/">Codecraft Computer Programming Competition</a></li>
+	<li id="menu-item-2171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2171"><a title="Summer Codecraft Camp" href="https://www.codecraftlab.org/camp-workshop-registration/">Summer Codecraft Camp</a></li>
+</ul>
+</li>
+<li id="menu-item-2844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2844"><a href="http://www.codecraftlab.org/locations/">LOCATIONS</a>
+<ul class="sub-menu">
+	<li id="menu-item-2882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2882"><a title="Codecraft Locations in Melbourne, Florida" href="http://www.codecraftlab.org/locations#Melbourne">Melbourne, Florida</a></li>
+	<li id="menu-item-2883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2883"><a title="Codecraft Locations in Orlando, Florida" href="http://www.codecraftlab.org/locations#Orlando">Orlando, Florida</a></li>
+	<li id="menu-item-3010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3010"><a href="http://www.codecraftlab.org/tallahassee/">Tallahassee, Florida</a></li>
+	<li id="menu-item-2861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861"><a title="Start a Codecraft Club" href="http://www.codecraftlab.org/club/">Start a Codecraft Club</a></li>
+</ul>
+</li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-142"><a title="Give $$ Support" href="https://www.codecraftlab.org/support-us/">SUPPORT</a>
+<ul class="sub-menu">
+	<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a title="Receive Support" href="http://www.codecraftlab.org/financial-assistance/">Get Financial Assistance</a></li>
+	<li id="menu-item-1800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1800"><a href="https://www.codecraftlab.org/support-us/">Give Mission Support</a></li>
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a title="Volunteer for Codecraft Lab" href="http://www.codecraftlab.org/volunteer-support/">Volunteer Time &#038; Talent</a></li>
+	<li id="menu-item-751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="https://www.codecraftlab.org/sponsors/">Sponsors Make a Difference</a></li>
+</ul>
+</li>
+<li id="menu-item-491" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item current_page_parent menu-item-491"><a title="News &#038; Event Blog" href="http://www.codecraftlab.org/blog/">BLOG</a></li>
+<li id="menu-item-2853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2853"><a href="#">ABOUT</a>
+<ul class="sub-menu">
+	<li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a href="http://www.codecraftlab.org/about/">About</a></li>
+	<li id="menu-item-483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-483"><a href="http://www.codecraftlab.org/contact-us/">Contact Us</a></li>
+	<li id="menu-item-458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458"><a title="Join our email list &#8211; stay in the know" href="http://www.codecraftlab.org/mailing-list/">Email List</a></li>
+</ul>
+</li>
+</ul>				<div class="social-menu">
+					
+					<a href="http://www.facebook.com/codecraftlab"><i class="mm-icon icon icon-large icon-facebook"></i></a><a href="http://www.twitter.com/codecraftlab"><i class="mm-icon icon icon-large icon-twitter"></i></a>				</div>
+			</div>
+		</div>
+		
+
+<div id="site" class="site-wrap">
+		<div  class="boxed-wrap site-translate">
+			<div id="fixed-top" class="pl-fixed-top is-not-fixed" data-region="fixed-top">
+
+		<div class="pl-fixed-region pl-region" data-region="fixed">
+			<div class="outline pl-area-container">
+								
+
+<!-- Canvas Area | Section Template -->
+<section id="pl_areau6534a" data-object="PLSectionArea" data-sid="pl_area" data-clone="u6534a"  class="pl-area pl-area-sortable area-tag    pl-bg-cover section-pl_area" style="  "><div class="pl-area-pad fix">	<div class="pl-area-wrap " style="padding-top: 20px; padding-bottom: 20px;">
+
+		<div class="pl-content nested-section-area">
+						<div class="pl-inner area-region pl-sortable-area editor-row" style="">
+				<div class="row grid-row"></div>
+
+<div class="row grid-row">
+
+<!-- Column | Section Template -->
+<section id="plcolumnu1de41" data-object="PLColumn" data-sid="plcolumn" data-clone="u1de41"  class="pl-section span5 offset0 force-start-row    pl-bg-cover section-plcolumn" style="  "><div class="pl-section-pad fix">		<div class="pl-sortable-column pl-sortable-area editor-row ">
+
+			<div class="row grid-row"></div>
+
+<div class="row grid-row">
+
+<!-- MediaBox | Section Template -->
+<section id="mediaboxu54jkce" data-object="PageLinesMediaBox" data-sid="mediabox" data-clone="u54jkce"  class="pl-section span12 offset0 force-start-row    pl-bg-cover section-mediabox" style="  "><div class="pl-section-pad fix"><div class="mediabox-wrap pl-centerer pla-fade pl-animation fix"  style="min-height: 30px">
+				<div class="the-media fitvids pl-centered center hentry">
+					<img src="http://www.codecraftlab.org/wp-content/uploads/2014/07/logo-transparent-web.gif" data-sync="mediabox_image" alt="Codecraft Lab - Kids learn to code!" title="Codecraft Lab - Kids learn to code!"  /> 
+					<div class="the-media-html"></div>
+				</div>
+			</div></div></section></div>			<span class="pl-column-forcer">&nbsp;</span>
+		</div>
+	</div></section>
+
+<!-- Column | Section Template -->
+<section id="plcolumnu1ded4" data-object="PLColumn" data-sid="plcolumn" data-clone="u1ded4"  class="pl-section span7 offset0    pl-bg-cover section-plcolumn" style="  "><div class="pl-section-pad fix">		<div class="pl-sortable-column pl-sortable-area editor-row ">
+
+			<div class="row grid-row"></div>
+
+<div class="row grid-row">
+
+<!-- NavBar | Section Template -->
+<section id="navbaru4duxox" data-object="PLNavBar" data-sid="navbar" data-clone="u4duxox"  class="pl-section span12 offset0 force-start-row grey    pl-bg-cover section-navbar" style="  text-align:middle;"><div class="pl-section-pad fix">	<div class="navbar fix navbar-content-width plnav_hover pl-color-base">
+	  <div class="navbar-inner ">
+	    <div class="navbar-content-pad fix">
+		
+	    		
+	      <a href="javascript:void(0)" class="nav-btn nav-btn-navbar mm-toggle"> MENU <i class="icon icon-reorder"></i> </a>
+				      		<div class="nav-collapse collapse">
+	       <ul id="menu-megamenu-1" class="font-sub navline pldrop pull-right"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a title="Computer Programming for Kids" href="http://www.codecraftlab.org/">HOME</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52"><a title="Learn to code" href="http://www.codecraftlab.org/learn-to-code/">LEARN</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2743"><a title="2-hour after school &#038; evening courses" href="http://www.codecraftlab.org/learn-to-code/">Codecraft Lab Afternoon or Evening Courses</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2890"><a href="http://www.codecraftlab.org/codecraft-club/">Codecraft Club at Your School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2179"><a href="http://www.codecraftlab.org/steam-events-services/">School Field Trips &#038; Badge Workshops</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2852"><a href="http://www.codecraftlab.org/codecraft-computer-programming-competition/">Codecraft Computer Programming Competition</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2171"><a title="Summer Codecraft Camp" href="https://www.codecraftlab.org/camp-workshop-registration/">Summer Codecraft Camp</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2844"><a href="http://www.codecraftlab.org/locations/">LOCATIONS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2882"><a title="Codecraft Locations in Melbourne, Florida" href="http://www.codecraftlab.org/locations#Melbourne">Melbourne, Florida</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2883"><a title="Codecraft Locations in Orlando, Florida" href="http://www.codecraftlab.org/locations#Orlando">Orlando, Florida</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3010"><a href="http://www.codecraftlab.org/tallahassee/">Tallahassee, Florida</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861"><a title="Start a Codecraft Club" href="http://www.codecraftlab.org/club/">Start a Codecraft Club</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-142"><a title="Give $$ Support" href="https://www.codecraftlab.org/support-us/">SUPPORT</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431"><a title="Receive Support" href="http://www.codecraftlab.org/financial-assistance/">Get Financial Assistance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1800"><a href="https://www.codecraftlab.org/support-us/">Give Mission Support</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a title="Volunteer for Codecraft Lab" href="http://www.codecraftlab.org/volunteer-support/">Volunteer Time &#038; Talent</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-751"><a href="https://www.codecraftlab.org/sponsors/">Sponsors Make a Difference</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item current_page_parent menu-item-491"><a title="News &#038; Event Blog" href="http://www.codecraftlab.org/blog/">BLOG</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2853"><a href="#">ABOUT</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a href="http://www.codecraftlab.org/about/">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-483"><a href="http://www.codecraftlab.org/contact-us/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458"><a title="Join our email list &#8211; stay in the know" href="http://www.codecraftlab.org/mailing-list/">Email List</a></li>
+</ul>
+</li>
+</ul>				</div>
+								<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div></section></div>			<span class="pl-column-forcer">&nbsp;</span>
+		</div>
+	</div></section></div>			</div>
+		</div>
+	</div>
+	</div></section>
+			</div>
+		</div>
+
+	</div>
+	<div class="fixed-top-pusher"></div>
+	<script> jQuery('.fixed-top-pusher').height( jQuery('.pl-fixed-top').height() ) </script>
+
+			
+		
+		<div class="pl-region-wrap">
+			<div id="page" class="thepage page-wrap">
+
+								<div class="page-canvas">
+					
+						<header id="header" class="header pl-region" data-region="header">
+		<div class="outline pl-area-container">
+			
+
+<!-- Canvas Area | Section Template -->
+<section id="pl_areaudc9c6" data-object="PLSectionArea" data-sid="pl_area" data-clone="udc9c6"  class="pl-area pl-area-sortable area-tag pl-light-img   pl-bg-cover section-pl_area" style="  "><div class="pl-area-pad fix">	<div class="pl-area-wrap " style="">
+
+		<div class="pl-content ">
+						<div class="pl-inner area-region pl-sortable-area editor-row" style="">
+							</div>
+		</div>
+	</div>
+	</div></section>		</div>
+	</header>
+
+						
+					<div id="page-main" class="pl-region custom-template editing-locked" data-custom-template="blog" data-template-name="blog" data-region="template" >
+						<div id="dynamic-content" class="outline template-region-wrap pl-area-container">
+							
+
+
+<!-- Canvas Area | Section Template -->
+<section id="pl_areau6271b" data-object="PLSectionArea" data-sid="pl_area" data-clone="u6271b"  class="pl-area pl-area-sortable area-tag    pl-bg-cover section-pl_area" style="  "><div class="pl-area-pad fix">	<div class="pl-area-wrap " style="padding-top: 20px; padding-bottom: 20px;">
+
+		<div class="pl-content nested-section-area">
+						<div class="pl-inner area-region pl-sortable-area editor-row" style="">
+				<div class="row grid-row"></div>
+
+<div class="row grid-row">
+
+<!-- Column | Section Template -->
+<section id="plcolumnu39290" data-object="PLColumn" data-sid="plcolumn" data-clone="u39290"  class="pl-section span8 offset0 force-start-row    pl-bg-cover section-plcolumn" style="  "><div class="pl-section-pad fix">		<div class="pl-sortable-column pl-sortable-area editor-row ">
+
+			<div class="row grid-row">
+
+<!-- WP Content/Loop | Section Template -->
+<section id="postloopup495bs" data-object="PageLinesPostLoop" data-sid="postloop" data-clone="up495bs"  class="pl-section span11 offset0    pl-bg-cover multi-post section-postloop" style="  "><div class="pl-section-pad fix"><div class="pl-new-loop">			<article id="post-3102" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-3102 post type-post status-publish format-standard has-post-thumbnail category-programming">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/holiday-gifts-winter-workshops/" rel="bookmark">Holiday Gifts, Winter Workshops</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-11-10T16:00:50+00:00">November 10, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/holiday-gifts-winter-workshops/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>Has your child ever expressed an interest in building their own computer, programming their own video games, learning Java to Mod Minecraft, or booby trapping their room?! Yep, thought so&#8230; Our kids too! Holidays are quickly approaching and we’ve got some top-secret, top-shelf, holiday gifts that offer best-in-class high-tech fun together with a powerful, valuable, [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/holiday-gifts-winter-workshops/" title="Read More Holiday Gifts, Winter Workshops">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2980" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2980 post type-post status-publish format-standard has-post-thumbnail category-computer-programming">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/codecraft-lab-partners-with-tallahassee-community-centers-and-florida-blue/" rel="bookmark">Codecraft Lab partners with Tallahassee community centers and Florida Blue</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-10-15T23:37:47+00:00">October 15, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/codecraft-lab-partners-with-tallahassee-community-centers-and-florida-blue/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>Exciting news in Tallahassee! Codecraft Lab is working with the Jack McLean Community Center and Palmer Munroe Teen Center to introduce Tallahassee teens to coding and computer science. The STE(A)M powered ten-week course started on Oct. 10. It teaches students algorithmic and critical thinking and creative problem solving using visual drag &amp; drop platforms and “unplugged” [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/codecraft-lab-partners-with-tallahassee-community-centers-and-florida-blue/" title="Read More Codecraft Lab partners with Tallahassee community centers and Florida Blue">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2938" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2938 post type-post status-publish format-standard has-post-thumbnail category-programming">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/codecraft-lab-course-at-the-iron-yard-orlando-campus/" rel="bookmark">Codecraft Lab Course at the Iron Yard Orlando Campus</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-09-28T17:10:12+00:00">September 28, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/codecraft-lab-course-at-the-iron-yard-orlando-campus/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>New Orlando Location &#8211; Open Registration Make Friends | Create What You Love | Learn to Code Our kids have the power, even at their young ages, to grasp and learn computer programming. At Codecraft Lab, computers are at their command and programming is their magic wand! Offered in a NEW Orlando location, Codecraft Lab at the [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/codecraft-lab-course-at-the-iron-yard-orlando-campus/" title="Read More Codecraft Lab Course at the Iron Yard Orlando Campus">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2894" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2894 post type-post status-publish format-standard has-post-thumbnail category-programming tag-codecrafters tag-game-dev tag-python">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/codecrafters-create-video-games-in-python/" rel="bookmark">Codecrafters Create Video Games in Python</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-09-25T00:42:53+00:00">September 25, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/codecrafters-create-video-games-in-python/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>This past summer, Codecraft Lab hosted the sold-out camp, &#8220;Making Games with Python &amp; Pygame&#8221;. Many of the students were familiar with Scratch, but they wanted to take their programming skills to the next level. During the camp, we covered the fundamentals of Python and showcased software we use every day that is powered by Python, such [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/codecrafters-create-video-games-in-python/" title="Read More Codecrafters Create Video Games in Python">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2815" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2815 post type-post status-publish format-standard has-post-thumbnail category-press">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/cybersecurity-expert-announces-partnership-with-codecraft-lab/" rel="bookmark">Cybersecurity Expert Announces Partnership with Codecraft Lab</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-09-16T22:22:03+00:00">September 16, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/cybersecurity-expert-announces-partnership-with-codecraft-lab/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>ORLANDO—Aug 10, 2016—Codecraft Lab, a Melbourne-based company that teaches youth to code and apply technology within their communities, today announced a strategic partnership with female celebrity cyber engineer, Hahna Kane Latonick who ranked sixth worldwide at the 2014 DEFCON Capture the Flag (CTF) competition finals, also known as the &#8220;Olympics of hacking.&#8221; Since 2014, Codecraft Lab [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/cybersecurity-expert-announces-partnership-with-codecraft-lab/" title="Read More Cybersecurity Expert Announces Partnership with Codecraft Lab">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2806" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2806 post type-post status-publish format-standard has-post-thumbnail category-programming">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/top-3-reasons-to-join-the-cyber-patriot-team/" rel="bookmark">Top 3 Reasons to Join the Cyber Patriot Team</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-09-04T14:19:07+00:00">September 4, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/top-3-reasons-to-join-the-cyber-patriot-team/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>This year, Codecraft Lab is once again coaching a high school and middle school team for Cyber Patriot, the National Youth Cyber Defense Competition, and we would love to have you join us! National Youth Cyber Defense Competition This event challenges high school and middle school students to act as IT professionals who must manage a [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/top-3-reasons-to-join-the-cyber-patriot-team/" title="Read More Top 3 Reasons to Join the Cyber Patriot Team">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2727" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2727 post type-post status-publish format-standard has-post-thumbnail category-computer-programming category-learn-to-code category-steam category-stem">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/its-more-than-math/" rel="bookmark">It&#8217;s More Than Math</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-07-28T15:33:45+00:00">July 28, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/its-more-than-math/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>In learning the vocabulary of computer science, I&#8217;m breaking through a language barrier with my computer. by Fiona McCrae Hi, my name is Fiona. By a coincidence of acquaintances, I got involved with Codecraft Lab as a volunteer last summer at the age of 14 before my sophomore year of high school. I thought volunteering [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/its-more-than-math/" title="Read More It&#8217;s More Than Math">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2695" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2695 post type-post status-publish format-standard has-post-thumbnail category-programming">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/game-makers-arcade/" rel="bookmark">Game Makers Arcade</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-07-14T16:49:04+00:00">July 14, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/game-makers-arcade/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>Click here to play! Alec, age 13 Tell me something unique about you, like a nickname, superpower, unusual talent or extreme interest? “I play soccer and I like to play chess. I just like to do sports basically” Why did you come to Codecraft Lab? “I wasn’t planning on going to camp this year, but [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/game-makers-arcade/" title="Read More Game Makers Arcade">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2654" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2654 post type-post status-publish format-standard has-post-thumbnail category-programming">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/codecrafter-qa-pinkiepieme/" rel="bookmark">Codecrafter Q&#038;A with Pinkiepieme</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-06-28T15:34:01+00:00">June 28, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/codecrafter-qa-pinkiepieme/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>What is your name? Lexy (a.k.a Pinkiepieme) Do you have a nickname, superpower, or unusual talent or interest? I am very good at hula hooping! How old are you? 9 and ½ years old Why did you come to Codecraft Lab? I came to Codecraft to help myself learn more about coding because I think [&#8230;]</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/codecrafter-qa-pinkiepieme/" title="Read More Codecrafter Q&#038;A with Pinkiepieme">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+						<article id="post-2528" class="multi-post standard-page pl-border hentry pl-new-loop use-flex-gallery post-2528 post type-post status-publish format-standard has-post-thumbnail category-learn-to-code">
+
+				
+									<header class="entry-header">
+						<h2 class="entry-title"><a href="http://www.codecraftlab.org/summer-2016-camp-wait-list/" rel="bookmark">Summer 2016 Camp Wait List</a></h2><div class="metabar"> Posted <time class="date time published updated sc" datetime="2016-04-22T22:52:39+00:00">April 22, 2016</time>  &middot; <span class="post-comments sc"><a href="http://www.codecraftlab.org/summer-2016-camp-wait-list/#comments">Add Comment</a></span>  </div>					</header><!-- .entry-header -->
+								<div class="entry-content">
+					<p>Codecraft Lab fills up quick! If you missed the spot you wanted, we&#8217;ll keep an eye out for you. Sometimes things change for people, so if you want to be notified if space opens up in a sold out camp, leave your info below. Loading&#8230; &nbsp;</p>
+<div class="continue_reading_link"><a class="btn" href="http://www.codecraftlab.org/summer-2016-camp-wait-list/" title="Read More Summer 2016 Camp Wait List">Read More <i class="icon icon-angle-right"></i></a></div>				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+			</div></div></section></div>			<span class="pl-column-forcer">&nbsp;</span>
+		</div>
+	</div></section>
+
+<!-- Column | Section Template -->
+<section id="plcolumnu39322" data-object="PLColumn" data-sid="plcolumn" data-clone="u39322"  class="pl-section span4 offset0    pl-bg-cover section-plcolumn" style="  "><div class="pl-section-pad fix">		<div class="pl-sortable-column pl-sortable-area editor-row ">
+
+			<div class="row grid-row">
+
+<!-- RapidTabs | Section Template -->
+<section id="rapidtabsu2kwwsq" data-object="PLRapidTabs" data-sid="rapidtabs" data-clone="u2kwwsq"  class="pl-section span12 offset0    pl-bg-cover section-rapidtabs" style="  "><div class="pl-section-pad fix">	<div class="widget">
+		<div class="widget-pad">
+	<div class="the-rapid-tabs">
+		<ul class="tabbed-list rapid-nav fix">
+			<li><a href="#rapid-popular">Popular</a></li>
+			<li><a href="#rapid-recent">Recent</a></li>
+			<li><a href="#rapid-comments">Comments</a></li>
+			<li><a href="#rapid-tags">Tags</a></li>
+		</ul>
+
+		<div id="rapid-popular">
+
+
+				<ul class="media-list">
+					<li class="media fix"><div class="img"><a class="the-media" href="http://www.codecraftlab.org/learning-how-to-learn/" style="background-image: url(http://www.codecraftlab.org/wp-content/uploads/2016/03/2016-03-01-18.45.48-e1457460505385-150x150.png)"></a></div><div class="bd"><a class="title" href="http://www.codecraftlab.org/learning-how-to-learn/">Learning How to Learn</a><span class="excerpt">Codecraft Lab recently hosted a Bite of Science in Melbourne [...]</span></div></li><li class="media fix"><div class="img"><a class="the-media" href="http://www.codecraftlab.org/codecraft-lab-cyberpatriot-team-advances/" style="background-image: url(http://www.codecraftlab.org/wp-content/uploads/2016/02/2016-01-31-19.31.13-150x150.jpg)"></a></div><div class="bd"><a class="title" href="http://www.codecraftlab.org/codecraft-lab-cyberpatriot-team-advances/">Media Advisory: Codecraft Lab CyberPatriot Team Advances to Gold Tier Regional Open Division Round</a><span class="excerpt">Tuesday February 16 2016 – A team of high school [...]</span></div></li><li class="media fix"><div class="bd"><a class="title" href="http://www.codecraftlab.org/space-coast-minecraft-users-group/">Space Coast Minecraft Users Group</a><span class="excerpt">The Space Coast Minecraft Users Group (SCMUG) is organized to [...]</span></div></li><li class="media fix"><div class="bd"><a class="title" href="http://www.codecraftlab.org/stem-events/">STEM Events</a><span class="excerpt">A lot is happening at Codecraft Lab and we want [...]</span></div></li>				</ul>
+		</div>
+		<div id="rapid-recent">
+				<ul class="media-list">
+					<li class="media fix"><div class="img"><a class="the-media" href="http://www.codecraftlab.org/holiday-gifts-winter-workshops/" style="background-image: url(http://www.codecraftlab.org/wp-content/uploads/2016/11/Pimoroni-Case-Back_700-150x150.jpg)"></a></div><div class="bd"><a class="title" href="http://www.codecraftlab.org/holiday-gifts-winter-workshops/">Holiday Gifts, Winter Workshops</a><span class="excerpt">Has your child ever expressed an interest in building their [...]</span></div></li><li class="media fix"><div class="img"><a class="the-media" href="http://www.codecraftlab.org/codecraft-lab-partners-with-tallahassee-community-centers-and-florida-blue/" style="background-image: url(http://www.codecraftlab.org/wp-content/uploads/2016/10/McLean-Day-One-e1476370736726-150x150.jpg)"></a></div><div class="bd"><a class="title" href="http://www.codecraftlab.org/codecraft-lab-partners-with-tallahassee-community-centers-and-florida-blue/">Codecraft Lab partners with Tallahassee community centers and Florida Blue</a><span class="excerpt">Exciting news in Tallahassee! Codecraft Lab is working with the Jack [...]</span></div></li><li class="media fix"><div class="img"><a class="the-media" href="http://www.codecraftlab.org/codecraft-lab-course-at-the-iron-yard-orlando-campus/" style="background-image: url(http://www.codecraftlab.org/wp-content/uploads/2016/09/TIY-standard-logo-150x150.png)"></a></div><div class="bd"><a class="title" href="http://www.codecraftlab.org/codecraft-lab-course-at-the-iron-yard-orlando-campus/">Codecraft Lab Course at the Iron Yard Orlando Campus</a><span class="excerpt">New Orlando Location &#8211; Open Registration Make Friends | Create [...]</span></div></li><li class="media fix"><div class="img"><a class="the-media" href="http://www.codecraftlab.org/codecrafters-create-video-games-in-python/" style="background-image: url(http://www.codecraftlab.org/wp-content/uploads/2016/09/Screen-Shot-2016-09-24-at-8.45.06-PM-150x150.png)"></a></div><div class="bd"><a class="title" href="http://www.codecraftlab.org/codecrafters-create-video-games-in-python/">Codecrafters Create Video Games in Python</a><span class="excerpt">This past summer Codecraft Lab hosted the sold-out camp &#8220;Making Games [...]</span></div></li>
+
+				</ul>
+		</div>
+
+		<div id="rapid-comments">
+
+			<ul class="quote-list">
+				
+			</ul>
+
+		</div>
+		<div id="rapid-tags">
+				<div class="tags-list">
+					<a href='http://www.codecraftlab.org/tag/ilooklikeanengineer/' class='tag-link-71 tag-link-position-1' title='2 topics' style='font-size: 10pt;'>#ILookLikeAnEngineer</a>
+<a href='http://www.codecraftlab.org/tag/after-school-computer-lab/' class='tag-link-39 tag-link-position-2' title='1 topic' style='font-size: 10pt;'>after school computer lab</a>
+<a href='http://www.codecraftlab.org/tag/boolean/' class='tag-link-58 tag-link-position-3' title='1 topic' style='font-size: 10pt;'>boolean</a>
+<a href='http://www.codecraftlab.org/tag/children/' class='tag-link-48 tag-link-position-4' title='1 topic' style='font-size: 10pt;'>children</a>
+<a href='http://www.codecraftlab.org/tag/coding/' class='tag-link-45 tag-link-position-5' title='1 topic' style='font-size: 10pt;'>coding</a>
+<a href='http://www.codecraftlab.org/tag/computer-engineering/' class='tag-link-46 tag-link-position-6' title='1 topic' style='font-size: 10pt;'>computer engineering</a>
+<a href='http://www.codecraftlab.org/tag/computer-programming/' class='tag-link-35 tag-link-position-7' title='11 topics' style='font-size: 10pt;'>computer programming</a>
+<a href='http://www.codecraftlab.org/tag/computers/' class='tag-link-52 tag-link-position-8' title='1 topic' style='font-size: 10pt;'>computers</a>
+<a href='http://www.codecraftlab.org/tag/computer-science/' class='tag-link-44 tag-link-position-9' title='5 topics' style='font-size: 10pt;'>computer science</a>
+<a href='http://www.codecraftlab.org/tag/courses/' class='tag-link-68 tag-link-position-10' title='3 topics' style='font-size: 10pt;'>courses</a>
+<a href='http://www.codecraftlab.org/tag/cyber-sleuth/' class='tag-link-63 tag-link-position-11' title='1 topic' style='font-size: 10pt;'>cyber sleuth</a>
+<a href='http://www.codecraftlab.org/tag/documentary/' class='tag-link-60 tag-link-position-12' title='1 topic' style='font-size: 10pt;'>documentary</a>
+<a href='http://www.codecraftlab.org/tag/edtech/' class='tag-link-37 tag-link-position-13' title='1 topic' style='font-size: 10pt;'>edTech</a>
+<a href='http://www.codecraftlab.org/tag/egad/' class='tag-link-56 tag-link-position-14' title='2 topics' style='font-size: 10pt;'>EGAD</a>
+<a href='http://www.codecraftlab.org/tag/equal-access/' class='tag-link-69 tag-link-position-15' title='1 topic' style='font-size: 10pt;'>equal access</a>
+<a href='http://www.codecraftlab.org/tag/events/' class='tag-link-55 tag-link-position-16' title='3 topics' style='font-size: 10pt;'>Events</a>
+<a href='http://www.codecraftlab.org/tag/html/' class='tag-link-65 tag-link-position-17' title='1 topic' style='font-size: 10pt;'>HTML</a>
+<a href='http://www.codecraftlab.org/tag/internet-safety/' class='tag-link-62 tag-link-position-18' title='1 topic' style='font-size: 10pt;'>internet safety</a>
+<a href='http://www.codecraftlab.org/tag/iot/' class='tag-link-66 tag-link-position-19' title='1 topic' style='font-size: 10pt;'>IoT</a>
+<a href='http://www.codecraftlab.org/tag/javascript/' class='tag-link-64 tag-link-position-20' title='1 topic' style='font-size: 10pt;'>JavaScript</a>
+<a href='http://www.codecraftlab.org/tag/k-12-education/' class='tag-link-38 tag-link-position-21' title='6 topics' style='font-size: 10pt;'>K-12 education</a>
+<a href='http://www.codecraftlab.org/tag/kids/' class='tag-link-47 tag-link-position-22' title='1 topic' style='font-size: 10pt;'>kids</a>
+<a href='http://www.codecraftlab.org/tag/learn-to-code/' class='tag-link-34 tag-link-position-23' title='3 topics' style='font-size: 10pt;'>learn to code</a>
+<a href='http://www.codecraftlab.org/tag/press/' class='tag-link-54 tag-link-position-24' title='2 topics' style='font-size: 10pt;'>Press</a>
+<a href='http://www.codecraftlab.org/tag/software-development/' class='tag-link-36 tag-link-position-25' title='1 topic' style='font-size: 10pt;'>software development</a>
+<a href='http://www.codecraftlab.org/tag/steam/' class='tag-link-51 tag-link-position-26' title='6 topics' style='font-size: 10pt;'>STEAM</a>
+<a href='http://www.codecraftlab.org/tag/stem/' class='tag-link-50 tag-link-position-27' title='6 topics' style='font-size: 10pt;'>STEM</a>
+<a href='http://www.codecraftlab.org/tag/technology/' class='tag-link-49 tag-link-position-28' title='1 topic' style='font-size: 10pt;'>technology</a>
+<a href='http://www.codecraftlab.org/tag/unplugged/' class='tag-link-57 tag-link-position-29' title='1 topic' style='font-size: 10pt;'>unplugged</a>
+<a href='http://www.codecraftlab.org/tag/video/' class='tag-link-59 tag-link-position-30' title='1 topic' style='font-size: 10pt;'>video</a>				</div>
+		</div>
+
+		</div>
+	</div>
+</div>
+		</div></section></div>
+
+<div class="row grid-row">
+
+<!-- ShareBar | Section Template -->
+<section id="sharebaru42q1z6" data-object="PageLinesShareBar" data-sid="sharebar" data-clone="u42q1z6"  class="pl-section span12 offset0    pl-bg-cover section-sharebar" style="  "><div class="pl-section-pad fix">
+        <div class="pl-sharebar">
+            <div class="pl-sharebar-pad">
+				<div class="pl-social-counters pl-animation-group ">
+					<span title="Facebook" class="pl-social-counter pl-social-facebook pl-animation pla-from-top subtle icon" data-social="facebook" ><span class="pl-social-icon"><i class="icon icon-facebook"></i> </span><span class="pl-social-count"></span></span><span title="Linkedin" class="pl-social-counter pl-social-linkedin pl-animation pla-from-top subtle icon" data-social="linkedin" ><span class="pl-social-icon"><i class="icon icon-linkedin"></i> </span><span class="pl-social-count"></span></span><span title="Twitter" class="pl-social-counter pl-social-twitter pl-animation pla-from-top subtle icon" data-social="twitter" ><span class="pl-social-icon"><i class="icon icon-twitter"></i> </span><span class="pl-social-count"></span></span>
+				</div>
+				                <div class="clear"></div>
+            </div>
+        </div>
+    </div></section></div>
+
+<div class="row grid-row">
+
+<!-- Primary Sidebar | Section Template -->
+<section id="sb_primaryurmwnib" data-object="PrimarySidebar" data-sid="sb_primary" data-clone="urmwnib"  class="pl-section span12 offset0    pl-bg-cover section-sb_primary" style="  "><div class="pl-section-pad fix"><ul id="list_sb_primary" class="sidebar_widgets fix"><li id="search-2" class="widget widget_search"><form method="get" class="searchform pl-searcher" onsubmit="this.submit();return false;" action="http://www.codecraftlab.org/" ><fieldset><span class="btn-search"><i class="icon icon-search"></i></span><input type="text" value="" name="s" class="searchfield" placeholder="Search" /></fieldset></form></li>
+<li id="avantlink_paw_widget-4" class="widget avantlink_paw_widget"><div class="avl_ad_widget"><script type="text/javascript" src="http://www.avantlink.com/product_ad_widget/paw.php?pawid=111914&amp;pw=191066&amp;output=js"></script></div></li>
+</ul></div></section></div>			<span class="pl-column-forcer">&nbsp;</span>
+		</div>
+	</div></section></div>			</div>
+		</div>
+	</div>
+	</div></section>						</div>
+												<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+				<footer id="footer" class="footer pl-region" data-region="footer">
+		<div class="page-area outline pl-area-container fix">
+		
+
+<!-- Canvas Area | Section Template -->
+<section id="pl_areau06be6" data-object="PLSectionArea" data-sid="pl_area" data-clone="u06be6"  class="pl-area pl-area-sortable area-tag pl-black   pl-bg-cover section-pl_area" style=" background-color: #3A3A3C; "><div class="pl-area-pad fix">	<div class="pl-area-wrap " style="padding-top: 20px; padding-bottom: 20px;">
+
+		<div class="pl-content nested-section-area">
+						<div class="pl-inner area-region pl-sortable-area editor-row" style="">
+				<div class="row grid-row">
+
+<!-- Testimonials | Section Template -->
+<section id="testimonialsukou2pr" data-object="PLTestimonials" data-sid="testimonials" data-clone="ukou2pr"  class="pl-section span12 offset0    pl-bg-cover section-testimonials" style="  height:400px; "><div class="pl-section-pad fix">		<div class="pl-testimonials-container" 
+			data-mode="default" 
+			data-height="false" 
+			data-auto="true" 
+			data-speed="14000" 
+		>
+		  <div class="pl-testimonials">
+			
+				  		<div class="the-testimonial" data-avatar="http://0.gravatar.com/avatar/?s=96&#038;r=g" >
+			    <blockquote>
+			    	<p data-sync="pl_testimonial_array_item1_text">"I believe learning the skill sets required to be successful in the computer science and computer security fields prepare me to work in nearly every industry, and the problem solving I’ve already learned is invaluable both in and out of school. I can say with certainty that learning to program with friends and mentors will remain one of the most influential and best decisions I’ve ever made."</p>
+			    	
+			    </blockquote>
+				<cite>Eve Beard</cite>			</div>
+			  		<div class="the-testimonial" data-avatar="http://2.gravatar.com/avatar/?s=96&#038;r=g" >
+			    <blockquote>
+			    	<p data-sync="pl_testimonial_array_item2_text">"Our son loves Codecraft Lab so much! He says 'it's the best club I have ever been in,' and after only two sessions he was able to build an impressive game."</p>
+			    	
+			    </blockquote>
+				<cite>The Kish Family</cite>			</div>
+			  		<div class="the-testimonial" data-avatar="http://2.gravatar.com/avatar/?s=96&#038;r=g" >
+			    <blockquote>
+			    	<p data-sync="pl_testimonial_array_item3_text">"Codecraft Lab really teaches outside of the box and helps the kids to explore what they can do, even at young ages!"</p>
+			    	
+			    </blockquote>
+				<cite>Keri Kolumbus Donald</cite>			</div>
+			  		<div class="the-testimonial" data-avatar="http://2.gravatar.com/avatar/?s=96&#038;r=g" >
+			    <blockquote>
+			    	<p data-sync="pl_testimonial_array_item4_text">"If a young person is interested in sports, you take him to a playing field, put a ball in front of him, and give him time to practice and play. If your child shows an interest in technology, why not give her the same freedom to learn and explore with access to a laptop, high-tech learning tools, and a mentored lab?"</p>
+			    	
+			    </blockquote>
+				<cite>Bingqian Liu</cite>			</div>
+			  		<div class="the-testimonial" data-avatar="http://0.gravatar.com/avatar/?s=96&#038;r=g" >
+			    <blockquote>
+			    	<p data-sync="pl_testimonial_array_item5_text">"We as parents tend to worry about the hours our kids devote to technology, but what if those hours were spent learning 21st century skills instead of simply “gaming” the hours away? You can steer their interests in technology in a positive direction and enable them to gain the confidence to become creative computer rock stars."</p>
+			    	
+			    </blockquote>
+				<cite>Laurie Giniewski</cite>			</div>
+			  		<div class="the-testimonial" data-avatar="http://1.gravatar.com/avatar/?s=96&#038;r=g" >
+			    <blockquote>
+			    	<p data-sync="pl_testimonial_array_item6_text">"Kids have the power, even at their young ages, to grasp and learn computer programming. Whether they pursue a degree in the computer field or not, our goal is to offer the opportunities for all kids to be better prepared for a future that is already here; where programming is essential to how the world functions."</p>
+			    	
+			    </blockquote>
+				<cite>Shannon Landin</cite>			</div>
+				  </div>
+		</div>
+	</div></section></div>
+
+<div class="row grid-row">
+
+<!-- TextBox | Section Template -->
+<section id="textboxuuka52r" data-object="PageLinesTextBox" data-sid="textbox" data-clone="uuka52r"  class="pl-section span10 offset1    pl-bg-cover section-textbox" style="  "><div class="pl-section-pad fix"><div class="textbox-wrap pl-animation textcenter " style="font-size: 11px;"><div class="hentry" data-sync="textbox_content"><p>Codecraft Lab is a 501(c)3 non-profit organization. For more information call 321-209-4674 or email learning@codecraftlab.org.<br />
+Codecraft Lab does not discriminate on the basis of race, age, color, sex, national origin, physical or mental disability, or religion.</p>
+</div></div></div></section></div>
+
+<div class="row grid-row">
+
+<!-- Socialinks | Section Template -->
+<section id="socialinksu0702e" data-object="PLSocialinks" data-sid="socialinks" data-clone="u0702e"  class="pl-section span12 offset0    pl-bg-cover section-socialinks" style="  "><div class="pl-section-pad fix">	<div class="socialinks-wrap fix sl-links-right">
+		
+		<div class="sl-text"><span class="sl-copy">&copy; 2016 Codecraft Lab</span> </div>	<div class="sl-links">
+	<a href="https://facebook.com/codecraftlab" class="sl-link" target='_blank'><i class="icon icon-facebook"></i></a><a href="http://instagram.com/codecraftlab" class="sl-link" target='_blank'><i class="icon icon-instagram"></i></a><a href="https://twitter.com/CodecraftLab" class="sl-link" target='_blank'><i class="icon icon-twitter"></i></a> </div>
+	
+		</div>
+</div></section></div>			</div>
+		</div>
+	</div>
+	</div></section>
+
+<!-- Canvas Area | Section Template -->
+<section id="pl_areau06e7d" data-object="PLSectionArea" data-sid="pl_area" data-clone="u06e7d"  class="pl-area pl-area-sortable area-tag pl-grey   pl-bg-cover section-pl_area" style=" background-color: #3A3A3C; "><div class="pl-area-pad fix">	<div class="pl-area-wrap " style="">
+
+		<div class="pl-content ">
+						<div class="pl-inner area-region pl-sortable-area editor-row" style="">
+							</div>
+		</div>
+	</div>
+	</div></section>		</div>
+	</footer>
+
+				
+		</div>		
+	</div>
+		
+</div>
+
+<!-- Footer Scripts -->
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/plugins/wp-speed-of-light/js/wpsol-scripts.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://www.avantlink.com/ale/ale.php?p=153426&#038;pw=191066'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/themes/dms/dms/js/script.bootstrap.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/themes/dms/dms/js/pl.helpers.js?ver=d7b395'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/themes/dms/dms/js/script.fitvids.js?ver=d7b395'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var plKarma = {"ajaxurl":"http:\/\/www.codecraftlab.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/themes/dms/dms/js/pl.common.js?ver=d7b395'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/themes/dms/dms/js/script.flexslider.js?ver=d7b395'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/themes/dms/dms/sections/navbar/navbar.js?ver=d7b395'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/themes/dms/sections/testimonials/pl.testimonials.js?ver=d7b395'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/plugins/dms-plugin-pro/libs/js/jquery.sonar.min.js?ver=0.2'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/plugins/dms-plugin-pro/libs/js/lazy-load.js?ver=0.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpee_config = {"type":"konami","custom_code":"","action":"cornify","custom_js":"","image":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-content/plugins/wp-easter-egg/lib/wp-easter-egg.js?ver=2.0.6'></script>
+<script type='text/javascript' src='http://www.codecraftlab.org/wp-includes/js/wp-embed.min.js?ver=eb227c0ab5468786ddb71cc4b4d95b9b'></script>
+<script type="text/javascript">
+	if ( typeof console === 'object' ) {
+		console.log('[BEGIN WordPress HTTPS Debug Log]');
+		console.log('Version: 3.3.6');
+		console.log('HTTP URL: http://www.codecraftlab.org/');
+		console.log('HTTPS URL: https://www.codecraftlab.org/');
+		console.log('SSL: No');
+		console.log('Diff Host: No');
+		console.log('Subdomain: Yes');
+		console.log('Proxy: No');
+		console.log('Secure External URLs: [ https://secure.gravatar.com/avatar/?s=96, https://maps.google.com/maps/api/js?sensor=false, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=64&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=26&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=80&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=24&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/67451e8eac2b9318545a805fa6b64f3e?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=64&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=26&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=18&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/70ea6f3857c0c1753e33c0f71802b8ac?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/38be6f27bf431eac64f2fef8145a92f4?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/babb93353a7c6cc9dcd006dbdc927f6c?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/53ee5f27f672f0ea900dd9d7ae8bdf53?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/7fa1b024cce8ff71f88535f5ab7ed8c3?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/81dd2d06f2215f115124aa371a9f9bfe?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/4c6f52aff1e3ccc53aad95b61ce63566?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/cdeb9fc36034e8592f1773c9d1364456?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/76338a8678cd330dfde4140affeb61af?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/08243a636a05328276c207a6347fc06e?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/f79e41ad2bc2c028480c1f8dab9888d7?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/824c34dec34a7d66ea3164d27a4be1ab?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/3c31b3847e64e4984ac7706c6978875d?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/75738fb4b6a71f517b57a204803f7d43?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/4ad3716162bd0bc0057b908d5b0c7a83?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/c5dec2d584901de0414ecbd005b7b144?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/38e1e79abb51510b24151ab6262b5000?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/03d3364f1c0f8fdf1d2af0163024a287?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/78f8c15269d6de01fb70ae4f01c4fab7?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/1ed03ce307f24bf63c7c5f1dfeda4afc?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/42e8ffab0c48ab43f526c09655bbda3f?s=64&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/42e8ffab0c48ab43f526c09655bbda3f?s=26&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/42e8ffab0c48ab43f526c09655bbda3f?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=80&amp;d=&amp;r=G, http://www.codecraftlab.org./member-forms/, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=24&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/50106dabdb8a591879c7942dbb8e3f06?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/488576bcff455a18d2647bb919e0109d?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/451855eeaceda661da07dbb449f610fd?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/dd1b3580f9394b403468c55dcf1aa645?s=32&amp;d=&amp;r=G, https://secure.gravatar.com/avatar/?s=96&#038;r=g, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=80&#038;r=g, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=64&#038;r=g, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=26&#038;r=g, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=32&#038;r=g, https://secure.gravatar.com/avatar/70ea6f3857c0c1753e33c0f71802b8ac?s=32&#038;r=g, https://secure.gravatar.com/avatar/38be6f27bf431eac64f2fef8145a92f4?s=32&#038;r=g, https://secure.gravatar.com/avatar/babb93353a7c6cc9dcd006dbdc927f6c?s=32&#038;r=g, https://secure.gravatar.com/avatar/488576bcff455a18d2647bb919e0109d?s=32&#038;r=g, https://secure.gravatar.com/avatar/53ee5f27f672f0ea900dd9d7ae8bdf53?s=32&#038;r=g, https://secure.gravatar.com/avatar/7fa1b024cce8ff71f88535f5ab7ed8c3?s=32&#038;r=g, https://secure.gravatar.com/avatar/81dd2d06f2215f115124aa371a9f9bfe?s=32&#038;r=g, https://secure.gravatar.com/avatar/4c6f52aff1e3ccc53aad95b61ce63566?s=32&#038;r=g, https://secure.gravatar.com/avatar/cdeb9fc36034e8592f1773c9d1364456?s=32&#038;r=g, https://secure.gravatar.com/avatar/76338a8678cd330dfde4140affeb61af?s=32&#038;r=g, https://secure.gravatar.com/avatar/08243a636a05328276c207a6347fc06e?s=32&#038;r=g, https://secure.gravatar.com/avatar/1ed03ce307f24bf63c7c5f1dfeda4afc?s=32&#038;r=g, https://secure.gravatar.com/avatar/f79e41ad2bc2c028480c1f8dab9888d7?s=32&#038;r=g, https://secure.gravatar.com/avatar/824c34dec34a7d66ea3164d27a4be1ab?s=32&#038;r=g, https://secure.gravatar.com/avatar/451855eeaceda661da07dbb449f610fd?s=32&#038;r=g, https://secure.gravatar.com/avatar/3c31b3847e64e4984ac7706c6978875d?s=32&#038;r=g, https://secure.gravatar.com/avatar/75738fb4b6a71f517b57a204803f7d43?s=32&#038;r=g, https://secure.gravatar.com/avatar/50106dabdb8a591879c7942dbb8e3f06?s=32&#038;r=g, https://secure.gravatar.com/avatar/dd1b3580f9394b403468c55dcf1aa645?s=32&#038;r=g, https://secure.gravatar.com/avatar/4ad3716162bd0bc0057b908d5b0c7a83?s=32&#038;r=g, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=32&#038;r=g, https://secure.gravatar.com/avatar/03d3364f1c0f8fdf1d2af0163024a287?s=32&#038;r=g, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=24&#038;r=g, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=80&#038;r=g, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=64&#038;r=g, https://secure.gravatar.com/avatar/185ae5f88f44b904572388c9a71fd683?s=26&#038;r=g, https://secure.gravatar.com/avatar/83910d32f9f5073668098c17e8ece275?s=64&#038;r=g, https://secure.gravatar.com/avatar/83910d32f9f5073668098c17e8ece275?s=26&#038;r=g, https://secure.gravatar.com/avatar/c247962780e290c5701109376046b666?s=32&#038;r=g, https://secure.gravatar.com/avatar/0f2f8c6fd534ff1fee3863de268c05f6?s=32&#038;r=g, https://secure.gravatar.com/avatar/1f871afc7f3dcbedc09fef2272d3cc9e?s=32&#038;r=g, http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.js, https://secure.gravatar.com/avatar/0f2f8c6fd534ff1fee3863de268c05f6?s=64&#038;r=g, https://secure.gravatar.com/avatar/0f2f8c6fd534ff1fee3863de268c05f6?s=26&#038;r=g, https://secure.gravatar.com/avatar/0f2f8c6fd534ff1fee3863de268c05f6?s=24&#038;r=g, https://secure.gravatar.com/avatar/647692f680dee21f51bca2dd1ab81a21?s=32&#038;r=g, https://secure.gravatar.com/avatar/42e8ffab0c48ab43f526c09655bbda3f?s=32&#038;r=g, https://secure.gravatar.com/avatar/4816ee8ad087e0433d1dd713552cabe9?s=32&#038;r=g, https://secure.gravatar.com/avatar/83910d32f9f5073668098c17e8ece275?s=32&#038;r=g, https://secure.gravatar.com/avatar/c0a9a010787c9347be57328a1f1995d1?s=32&#038;r=g, https://secure.gravatar.com/avatar/780435bcf69ab814cef1a3f9680e2a10?s=32&#038;r=g, https://secure.gravatar.com/avatar/c94a30c92c70f0273d89db61948a1900?s=32&#038;r=g, https://secure.gravatar.com/avatar/67451e8eac2b9318545a805fa6b64f3e?s=32&#038;r=g, https://secure.gravatar.com/avatar/49e1fd455c980f490647c5c2b2e614ed?s=32&#038;r=g, https://secure.gravatar.com/avatar/52816d14c5b117c8182bee4e3ed04406?s=32&#038;r=g, http://dummyimage.com/250/4d494d/686a82.gif&text=250+x+250, http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=7fa2ad028523bbb9053a12ccedcb20214248c1b5, http://www.avantlink.com/link.php?ml=389790&amp;p=153426&amp;pw=191066, https://www.avantlink.com/ale/ale.php?p=153426&pw=191066, http://www.avantlink.com/product_ad_widget/paw.php?pawid=111914&amp;pw=191066&amp;output=js, https://secure.gravatar.com/avatar/86dfb1ab8b1f1d761d54c1f157269625?s=80&#038;r=g, http://cdn-images-1.medium.com/max/1200/1*DW81h7Zx66npMGHohl7bLA.jpeg, http://cdn-images-1.medium.com/max/1600/1*KW1BmdbbmIbZxff9lEAj_A.png, http://cdn-images-1.medium.com/max/1600/1*IM716rWPRkP61zDXqHLG4A.jpeg, http://cdn-images-1.medium.com/max/1600/1*AcIuK__sjkSKxAl7flKwew.jpeg, http://cdn-images-1.medium.com/max/2000/1*UgL_Km_GoNVfnGRHBeKC3A.png, http://upload.wikimedia.org/wikipedia/commons/0/06/Punch-card--fortran.jpg, https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,300,400,600&subset=latin,latin-ext, https://secure.gravatar.com/avatar/69d4525605e0f5409f3b1e35f8182387?s=80&#038;r=g, https://secure.gravatar.com/avatar/488576bcff455a18d2647bb919e0109d?s=80&#038;r=g, http://codecraftlab.net/shop/, http://www.codecraftlab.com/shop/, http://www.codecraftlab.com/shop/?orderby=price, http://www.codecraftlab.com/shop/?orderby=date, http://www.codecraftlab.com/shop/?orderby=price-desc, http://www.codecraftlab.com/shop/?orderby=menu_order, http://www.codecraftlab.com/shop/?orderby=popularity, http://codecraftlab.com/shop/, http://codecraftlab.com/shop/?orderby=price, http://codecraftlab.com/shop/?orderby=date, http://codecraftlab.com/shop/?orderby=popularity, http://codecraftlab.com/shop/?orderby=price-desc, http://codecraftlab.com/shop/?orderby=menu_order, http://codecraftlab.com/camp-workshop-registration/, http://codecraftlab.com/camp-workshop-registration/?orderby=date, http://codecraftlab.com/camp-workshop-registration/?orderby=price, http://codecraftlab.com/camp-workshop-registration/?orderby=popularity, http://codecraftlab.com/camp-workshop-registration/?orderby=menu_order, http://codecraftlab.com/camp-workshop-registration/?orderby=price-desc, http://codecraftlab.net/camp-workshop-registration/, http://mail.codecraftlab.org/camp-workshop-registration/, http://codecraftlab.net/camp-workshop-registration/?orderby=popularity, http://codecraftlab.net/camp-workshop-registration/?orderby=date, http://codecraftlab.net/camp-workshop-registration/?orderby=price, http://codecraftlab.net/camp-workshop-registration/?orderby=menu_order, http://codecraftlab.net/camp-workshop-registration/?orderby=price-desc, http://173.254.65.126/camp-workshop-registration/, http://mail.codecraftlab.net/camp-workshop-registration/, http://www.codecraftlab.net/camp-workshop-registration/, http://www.codecraftlab.net/camp-workshop-registration/?r=, http://www.codecraftlab.net/camp-workshop-registration/?//www.codecraftlab.org/?wordfence_logHuman=1&hid=D815D0E9B208CEC2D8C871E1EC1A6ECE, http://www.codecraftlab.com/camp-workshop-registration/, http://www.codecraftlab.com/camp-workshop-registration/?r=, http://www.codecraftlab.com/camp-workshop-registration/?//www.codecraftlab.org/?wordfence_logHuman=1&hid=56742C78F9E7A9944E772E561E7BAC32, http://www.codecraftlab.com/camp-workshop-registration/?//www.codecraftlab.org/?wordfence_logHuman=1&hid=602987275049E1943BA9D39EC987E5DC, https://js.stripe.com/v2/, https://secure.gravatar.com/avatar/077eeb9b7d4742b10f109151749bad62?s=64&#038;r=g, https://secure.gravatar.com/avatar/077eeb9b7d4742b10f109151749bad62?s=26&#038;r=g, http://cdn.ckeditor.com/4.5.3/full/ckeditor.js, https://cdn.ckeditor.com/4.5.3/standard/ckeditor.js, https://maps.googleapis.com/maps/api/js?key=, http://www.iclasspro.com/images/ClassSchedules.png, http://www.iclasspro.com/images/ParentLogin.png, http://www.iclasspro.com/images/CreateAccount.png, http://connect.facebook.net/en_US/fbevents.js, http://www.facebook.com/tr?id=736581349826961&ev=PageView&noscript=1, https://secure.gravatar.com/avatar/077eeb9b7d4742b10f109151749bad62?s=24&#038;r=g, https://secure.gravatar.com/avatar/85a6de7ea4986a4513c03c848d414ceb?s=24&#038;r=g, https://secure.gravatar.com/avatar/077eeb9b7d4742b10f109151749bad62?s=80&#038;r=g, https://secure.gravatar.com/avatar/69d4525605e0f5409f3b1e35f8182387?s=24&#038;r=g, https://secure.gravatar.com/avatar/077eeb9b7d4742b10f109151749bad62?s=32&#038;r=g, https://secure.gravatar.com/avatar/85a6de7ea4986a4513c03c848d414ceb?s=32&#038;r=g, https://secure.gravatar.com/avatar/e115011a040055ac5285c784cee846f8?s=32&#038;r=g, https://secure.gravatar.com/avatar/69d4525605e0f5409f3b1e35f8182387?s=32&#038;r=g, https://secure.gravatar.com/avatar/1f309edb1fcc60aeeb23105485533598?s=32&#038;r=g, https://secure.gravatar.com/avatar/9f8ce7cee5b86883baa4c69bfd85f51e?s=32&#038;r=g, https://secure.gravatar.com/avatar/ee06d6c50925f89831a16cd0f69654a0?s=96&#038;r=g ]');
+		console.log('Unsecure External URLs: [ http://codecraftlab.org/wp-content/uploads/2013/11/HolidayCodeJam.gif, http://codecraftlab.org/wp-content/uploads/2013/11/HolidayCodeJam-239x300.gif, http://codecraftlab.org/wp-content/uploads/2013/10/CaldwellBankerBuildingphoto-small.jpg, http://codecraftlab.org/wp-content/uploads/2013/10/CaldwellBankerBuildingphoto-small-300x225.jpg, http://codecraftlab.org/wp-content/uploads/2013/10/TrepHub-strawbridge-door.jpg, http://codecraftlab.org/wp-content/uploads/2013/10/TrepHub-strawbridge-door-300x225.jpg, http://wp3.dev/wp-content/plugins/teammate/sections/teammate/img/image-icon-loupe.png, http://codecraftlab.net/shop/, http://codecraftlab.com/camp-workshop-registration/, http://codecraftlab.net/camp-workshop-registration/, http://mail.codecraftlab.org/camp-workshop-registration/, http://mail.codecraftlab.net/camp-workshop-registration/, http://www.codecraftlab.net/camp-workshop-registration/, http://www.codecraftlab.net/camp-workshop-registration/?r=, http://www.codecraftlab.net/camp-workshop-registration/?//www.codecraftlab.org/?wordfence_logHuman=1&hid=D815D0E9B208CEC2D8C871E1EC1A6ECE, http://www.codecraftlab.net/camp-workshop-registration/?//www.codecraftlab.org/?wordfence_logHuman=1&hid=6901F01C90FD293636FADFB554ADFF2F, http://www.codecraftlab.com/camp-workshop-registration/, http://www.codecraftlab.com/camp-workshop-registration/?r=, http://www.codecraftlab.com/camp-workshop-registration/?//www.codecraftlab.org/?wordfence_logHuman=1&hid=56742C78F9E7A9944E772E561E7BAC32, http://www.codecraftlab.com/camp-workshop-registration/?//www.codecraftlab.org/?wordfence_logHuman=1&hid=602987275049E1943BA9D39EC987E5DC, http://maker.codecraftlab.org/alec/index.html, http://maker.codecraftlab.org/sandbox/index.html, http://maker.codecraftlab.org/matthew/index.html, http://maker.codecraftlab.org/dylansflight/index.html, http://maker.codecraftlab.org/mason2/index.html, http://maker.codecraftlab.org/aidan/index.html, http://maker.codecraftlab.org/austin/index.html, http://domain.com/path/to/script.js ]');
+		console.log('[FIXED] Element: <a> - http://www.codecraftlab.org/camp-workshop-registration/ => https://www.codecraftlab.org/camp-workshop-registration/');
+		console.log('[FIXED] Element: <a> - http://www.codecraftlab.org/support-us/ => https://www.codecraftlab.org/support-us/');
+		console.log('[FIXED] Element: <a> - http://www.codecraftlab.org/sponsors/ => https://www.codecraftlab.org/sponsors/');
+		console.log('[END WordPress HTTPS Debug Log]');
+	}
+</script>
+
+
+</body>
+</html>
+<!-- Cache served by WPSOL CACHE - Last modified: Fri, 18 Nov 2016 00:34:48 GMT -->
